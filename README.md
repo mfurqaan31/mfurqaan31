@@ -42,17 +42,17 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=410 src="https://streak-stats.demolab.com/?user=mfurqaan31&count_private=true&theme=chartreuse-dark&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mfurqaan31&count_private=true&show_icons=true&theme=chartreuse-dark&border_radius=10" alt="readme stats" />
+  <img width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=mfurqaan31&theme=chartreuse-dark" alt="mfurqaan31" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mfurqaan31&show_icons=true&locale=en&theme=chartreuse-dark" alt="mfurqaan31" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfurqaan31&langs_count=8&layout=compact&theme=chartreuse-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfurqaan31&layout=compact&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5" alt="mfurqaan31" />
 </div>
 
 <br/><br/>
 <hr/>
 
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=900&size=36&pause=1000&color=00FFBB&center=true&vCenter=true&width=435&lines=Thank+You+for+Visiting❤️" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=900&size=36&pause=1000&color=00FFBB&center=true&vCenter=true&width=435&lines=Thank+You+for+Visiting+❤️" alt="Typing SVG" /></a>
 </h1>
 
 <br/>

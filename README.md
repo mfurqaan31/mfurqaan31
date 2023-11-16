@@ -45,7 +45,7 @@
   <img width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=mfurqaan31&theme=chartreuse-dark" alt="mfurqaan31" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mfurqaan31&show_icons=true&locale=en&theme=chartreuse-dark" alt="mfurqaan31" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfurqaan31&layout=compact&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5" alt="mfurqaan31" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfurqaan31&layout=donut&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5" alt="mfurqaan31" />
 </div>
 
 <br/><br/>

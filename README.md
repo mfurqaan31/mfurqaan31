@@ -38,13 +38,11 @@
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align=center>
+ <a href="https://github.com/mfurqaan31"><img width=100% src="https://github-profile-trophy.vercel.app/?username=mfurqaan31&hide_border=true&column=-1&theme=darkhub&no-frame=true"></a>
   <img width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=mfurqaan31&theme=chartreuse-dark" alt="mfurqaan31" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mfurqaan31&show_icons=true&locale=en&theme=chartreuse-dark" alt="mfurqaan31" />
   <br/>
@@ -54,6 +52,7 @@
 <br/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=900&size=36&pause=1000&color=00FFBB&center=true&vCenter=true&width=435&lines=Thank+You+for+Visiting+❤️" alt="Typing SVG" /></a>
 </h1>

@@ -43,10 +43,10 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align=center>
  <a href="https://github.com/mfurqaan31"><img width=100% src="https://github-profile-trophy.vercel.app/?username=mfurqaan31&hide_border=true&column=-1&theme=darkhub&no-frame=true"></a>
-  <img width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=mfurqaan31&theme=chartreuse-dark" alt="mfurqaan31" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mfurqaan31&show_icons=true&locale=en&theme=chartreuse-dark" alt="mfurqaan31" />
+  <img width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=mfurqaan31&theme=chartreuse-dark&count_private=true" alt="mfurqaan31" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mfurqaan31&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="mfurqaan31" />
   <br/>
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfurqaan31&layout=donut&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5" alt="mfurqaan31" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfurqaan31&layout=donut&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5&count_private=true" alt="mfurqaan31" />
 </div>
 
 <br/>

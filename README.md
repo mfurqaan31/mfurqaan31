@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  I’m currently learning **Azure, Data Structures and Algorithms, Linux**
+  I’m currently learning <b>Azure, Data Structures and Algorithms, Linux</b>
 </div>
 
 <br/>

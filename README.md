@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mfurqaan31&label=Profile%20views&color=0e75b6&style=flat" alt="mfurqaan31" />
+<img src="https://visitcount.itsvg.in/api?id=mfurqaan31&label=Profile%20Views&color=1&icon=5&pretty=true"/>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />

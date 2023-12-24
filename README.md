@@ -2,7 +2,7 @@
 <img src="https://visitcount.itsvg.in/api?id=mfurqaan31&label=Profile%20Views&color=1&icon=5&pretty=true"/>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
   </a>
 </h1>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"/>
 
 <h3 align="center">A passionate Cloud Computing enthusiast</h3>
 
@@ -36,11 +36,11 @@
 
 <br/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"/>
 
 <br/>
 
@@ -51,11 +51,11 @@
 
 <br/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"/>
 
 <div align="center">
   <a href="https://github.com/mfurqaan31">
@@ -69,7 +69,7 @@
 
 <br/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -77,4 +77,4 @@
   </a>
 </h1>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"/>

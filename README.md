@@ -68,13 +68,3 @@
 </div>
 
 <br/>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"/>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=arial&weight=900&size=36&pause=1000&color=00FFBB&center=true&vCenter=true&width=435&lines=Thank+You+for+Visiting+❤️" alt="Typing SVG" />
-  </a>
-</h1>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="5"/>
